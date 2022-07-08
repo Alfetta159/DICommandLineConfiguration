@@ -1,3 +1,5 @@
+# Command Line Parameters in .NET Console Applications
+
 Dependency Injection makes managing resources in applications hosted in .NET much more straightforward, at least once you get your head around configuring your host.
 
 > To see the example, scroll down to 'The Example'
